@@ -1,0 +1,5 @@
+[package]
+name = "chapter-10-generics-traits-lifetimes"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true

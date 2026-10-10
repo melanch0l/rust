@@ -1,0 +1,5 @@
+[package]
+name = "chapter-01-getting-started"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true

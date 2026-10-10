@@ -1,0 +1,5 @@
+[package]
+name = "chapter-04-ownership"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true

@@ -1,0 +1,5 @@
+[package]
+name = "chapter-09-error-handling"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
