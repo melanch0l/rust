@@ -37,7 +37,3 @@ input. The workspace uses only the standard library.
 | `16-advanced-rust` | Newtypes, type aliases, and trait objects | `cargo run -p chapter-16-advanced-rust` |
 | `17-cli-project` | A small file-search command-line program | `cargo run -p chapter-17-cli-project -- needle file.txt` |
 
-For async programming, see the
-[Rust Book's async chapter](https://doc.rust-lang.org/book/ch17-00-async-await.html);
-async code needs an executor to poll futures, so it is not presented as a
-standard-library-only runnable example here.
